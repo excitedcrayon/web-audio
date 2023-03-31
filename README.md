@@ -4,6 +4,7 @@ Learning to create visuals using canvas and using the audio context API to rende
 Using ES6 Javascript ES6 classes, I managed to create a simple audio visualizer using HTML5 Canvas and Audio/AudioContext
 
 ![Web Audio Interface][image.png]
+<img src="image.png" alt="Image">
 
 ```javascript
     window.addEventListener('DOMContentLoaded', () => {
